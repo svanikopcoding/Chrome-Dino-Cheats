@@ -53,16 +53,6 @@ Runner.prototype.gameOver = original
 
 
 
-#### Setting the current score
-
-Let’s set the score to 12345. You can set any other score less than 99999. The current score is reset on game over.
-
-```js
-Runner.instance_.distanceRan = 12345 / Runner.instance_.distanceMeter.config.COEFFICIENT
-```
-
-
-
 #### Dino jumping too high?
 
 You can control how high the dino jumps by using the below function. Adjust the value as necessary.
