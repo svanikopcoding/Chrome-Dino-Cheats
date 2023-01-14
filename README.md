@@ -3,7 +3,7 @@ The game can be hacked pretty easily, making your dinosaur not even flinch at th
 
 To hack the game, first go the the error message page where your dinosaur is hanging out.
 
-Go ahead and press the space bar to start the game. Once the game starts, right-click and select ``Inspect” to open up Chrome DevTools``, then select the ``Console`` tab.``Inspect” to open up Chrome DevTools``, then select the ``Console`` tab.
+Go ahead and press the space bar to start the game. Once the game starts, right-click and select ``Inspect” to open up Chrome DevTools``, then select the ``Console`` tab.
 
 You can also do this by using the Ctrl+Shift+I shortcut, which takes you straight to the  Console tab of DevTools.
 
